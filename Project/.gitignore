@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+
+# VSCode
+.vscode/
+
+# Data klasörü ve içeriği
+Data/
+
+# TurkishPropBank klasörü ve içeriği
+turkishpropbank.github.io/
+
+# Jupyter notebook checkpointleri
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
